@@ -47,7 +47,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | **KodeBlog** | A personal blog website with categories, posts, authors and authentication | `Next.js`, `Tailwind`, `Firebase` |
-| **KlicknBuy** | Full-stack e-commerce app with payment integration and admin panel | `MERN Stack`, `Redux`, `MongoDB Atlas` |
+| **ClicknBuy** | Full-stack e-commerce app with payment integration and admin panel | `MERN Stack`, `Redux`, `MongoDB Atlas` |
 | **TaskNest App** | Feature-rich To-Do mobile app with Pomodoro, analytics & Firebase | `React Native`, `Firebase`, `Framer Motion` |
 | **SecureCloud** *(Upcoming)* | AWS-like web app with virtual server creation, pricing plans & secure storage | `React`, `Node.js`, `Supabase`, `JS` |
 
@@ -57,7 +57,7 @@
 
 🎓 **Bachelor of Science in Computer Science**  
 📍 <Your College Name>  
-🗓️ 2022 – 2025  
+🗓️ 2023 – 2026  
 📌 Focus Areas: Java DSA, Web/App Development, Operating Systems, Computer Networks
 
 ---
