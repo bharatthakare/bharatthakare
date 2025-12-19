@@ -1,82 +1,155 @@
-# 👋 Hi, I'm Bharat Thakare!  
-### 🚀 A Passionate Front-End Developer | B.Sc. Computer Science Student | Java & DSA Enthusiast
+<div align="center" id="top">
+  <img src="https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.png" width="900" alt="Bharat Thakare Banner" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=bharatthakare&color=blue)
+  <a href="https://bharatthakare.vercel.app">Portfolio</a>
+</div>
 
----
+<div align="center">
+  <h1>Bharat Thakare</h1>
+  <h3>Front-End Developer • B.Sc. Computer Science • Java & DSA Enthusiast</h3>
+</div>
 
-## 👨‍💻 About Me
+<p align="center">
+  <a href="https://github.com/bharatthakare">
+    <img src="https://komarev.com/ghpvc/?username=bharatthakare&color=blue" alt="Profile Views"/>
+  </a>
 
-🎓 I'm currently pursuing **B.Sc. in Computer Science**  
-📚 Focused on mastering **Java DSA, Web Development & System Design**  
-💻 I love building **modern, responsive UIs** and **full-stack apps**  
-⚡ Currently working on **React Native To-Do App with Firebase**  
-🌱 Exploring **Ethical Hacking, Supabase, and Cloud Infrastructure**
+  <a href="https://github.com/bharatthakare?tab=followers">
+    <img src="https://img.shields.io/github/followers/bharatthakare?label=Followers"/>
+  </a>
 
----
+  <a href="https://github.com/bharatthakare">
+    <img src="https://img.shields.io/github/stars/bharatthakare?label=Stars"/>
+  </a>
 
-## 🛠️ Tech Stack
+  <a href="https://github.com/bharatthakare">
+    <img src="https://img.shields.io/github/last-commit/bharatthakare/bharatthakare"/>
+  </a>
+</p>
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-**Front-End:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Mobile Dev:**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Backend & DB:**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-
-**Tools & Platforms:**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
+  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#brain-projects">Projects</a> &#xa0; | &#xa0;
+  <a href="#trophy-achievements">Achievements</a> &#xa0; | &#xa0;
+  <a href="#mortar_board-education">Education</a> &#xa0; | &#xa0;
+  <a href="#mailbox-contact">Contact</a>
+</p>
 
 ---
 
-## 🧠 Projects I'm Proud Of
+## :dart: About ##
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **KodeBlog** | A personal blog website with categories, posts, authors and authentication | `Next.js`, `Tailwind`, `Firebase` |
-| **ClicknBuy** | Full-stack e-commerce app with payment integration and admin panel | `MERN Stack`, `Redux`, `MongoDB Atlas` |
-| **TaskNest App** | Feature-rich To-Do mobile app with Pomodoro, analytics & Firebase | `React Native`, `Firebase`, `Framer Motion` |
-| **SecureCloud** *(Upcoming)* | AWS-like web app with virtual server creation, pricing plans & secure storage | `React`, `Node.js`, `Supabase`, `JS` |
+Are you tired of boring GitHub profiles that don’t show real skills?  
+Say no more 💪
+
+I’m **Bharat Thakare**, a **Computer Science undergraduate** and **Front-End Developer** who loves building **modern, scalable, production-ready applications**.  
+My focus is on **clean UI, strong logic, and real-world problem solving**.
+
+- 🎓 B.Sc. Computer Science (2023–2026)
+- 💻 Front-End & Full-Stack Development
+- 🧠 Java + Data Structures & Algorithms
+- 📱 React Native App Development
+- ☁️ Supabase, Firebase & Cloud Systems
+- 🔐 Ethical Hacking & System Design (Exploring)
 
 ---
 
-## 📖 Education
+## :rocket: Main Technologies ##
+
+<a href="https://nextjs.org">
+  <img width="50" title="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://react.dev">
+  <img width="50" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://www.typescriptlang.org">
+  <img width="50" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://tailwindcss.com">
+  <img width="50" title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://firebase.google.com">
+  <img width="50" title="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://supabase.com">
+  <img width="50" title="Supabase" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png">
+</a>
+
+###
+
+<details>
+  <summary>See more</summary>
+
+  ###
+  - Java (DSA)
+  - React Native
+  - Node.js
+  - MongoDB Atlas
+  - shadcn/ui
+  - Framer Motion
+  - Git & GitHub
+  - Figma
+  - Vercel Deployment
+</details>
+
+---
+
+## :brain: Projects ##
+
+| Project | Description | Tech |
+|-------|------------|------|
+| **KisanAI Web** | AI-powered agriculture platform with NDVI, crop health & maps | Next.js, APIs, Firebase |
+| **Talent Track** | Campus placement management system | MERN, Firebase |
+| **TaskNest** | To-Do app with Pomodoro, analytics & cloud sync | React Native, Firebase |
+| **KodeBlog** | Blogging platform with auth & markdown | Next.js, Firebase |
+| **KlicknBuy** | Full-stack e-commerce app | MERN, Redux |
+| **SecureCloud** *(In Progress)* | AWS-like cloud platform | React, Node, Supabase |
+
+---
+
+## :trophy: Achievements ##
+
+- 🏆 Cleared **Level 1 Inter-College Coding Competition**
+- 🎯 Selected for **Level 2 + Mock Interview**
+- 👨‍💻 **Team Leader – TEAM SYNTAX** (Hackathons)
+- 🚀 Participated in multiple **Hackathons & Tech Events**
+- 👨‍🏫 Teaching **Java fundamentals** at a coding center
+- 📈 Building **production-grade projects**, not just demos
+
+---
+
+## :mortar_board: Education ##
 
 🎓 **Bachelor of Science in Computer Science**  
-📍 <Your College Name>  
+📍 Rajasthan Aryan Arts, Commerce & Science College, Washim  
 🗓️ 2023 – 2026  
-📌 Focus Areas: Java DSA, Web/App Development, Operating Systems, Computer Networks
 
 ---
 
-## 📫 Let's Connect!
+## :mailbox-contact: Contact ##
 
-- 📧 Email: [bharatthakarebt01@gmail.com](mailto:bharatthakarebt01@gmail.com)  
-- 🌐 Portfolio: [bharatthakare.vercel.app](https://bharatthakare.vercel.app)  
-- 💼 LinkedIn: [linkedin.com/in/bharatthakare](https://linkedin.com/in/bharatthakare)  
-- 🐦 Twitter: [@bharatthakare_](https://twitter.com/bharatthakare_)  
-- 📸 Instagram: [@bharatthakare_](https://instagram.com/bharatthakare_)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharatthakare&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatthakare&layout=compact&theme=tokyonight)
+- 📧 Email: bharatthakarebt01@gmail.com  
+- 🌐 Portfolio: https://bharatthakare.vercel.app  
+- 💼 LinkedIn: https://linkedin.com/in/bharatthakare  
+- 🐦 Twitter/X: @bharatthakare_  
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+## :bar_chart: GitHub Stats ##
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatthakare&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatthakare&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+> *Code is like humor. When you have to explain it, it’s bad.* — Cory House  
+
+<a href="#top">Back to top</a>
