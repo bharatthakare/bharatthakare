@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="./Bharat Thakare.jpg" width="900" alt="Bharat Thakare Banner" />
+  <img src="./GitHub Banner.jpg" width="900" alt="Bharat Thakare Banner" />
 
   <a href="https://bharatthakare.vercel.app">Portfolio</a>
 </div>
