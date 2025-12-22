@@ -115,8 +115,7 @@ My focus is on **clean UI, strong logic, and real-world problem solving**.
 
 ## :trophy: Achievements ##
 
-- 🏆 Cleared **Level 1 Inter-College Coding Competition**
-- 🎯 Selected for **Level 2 + Mock Interview**
+- 🏆 3rd Postion **District Level Coding Competition**
 - 👨‍💻 **Team Leader – TEAM SYNTAX** (Hackathons)
 - 🚀 Participated in multiple **Hackathons & Tech Events**
 - 👨‍🏫 Teaching **Java fundamentals** at a coding center
@@ -127,14 +126,14 @@ My focus is on **clean UI, strong logic, and real-world problem solving**.
 ## :mortar_board: Education ##
 
 🎓 **Bachelor of Science in Computer Science**  
-📍 Rajasthan Aryan Arts, Commerce & Science College, Washim  
+📍 R.A. College, Washim  
 🗓️ 2023 – 2026  
 
 ---
 
 ## :mailbox-contact: Contact ##
 
-- 📧 Email: bharatthakarebt01@gmail.com  
+- 📧 Email: bharatthakare017@gmail.com  
 - 🌐 Portfolio: https://bharatthakare.vercel.app  
 - 💼 LinkedIn: https://linkedin.com/in/bharatthakare  
 - 🐦 Twitter/X: @bharatthakare_  
