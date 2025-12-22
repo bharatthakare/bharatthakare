@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.png" width="900" alt="Bharat Thakare Banner" />
+  <img src="./Bharat Thakare.jpg" width="900" alt="Bharat Thakare Banner" />
 
   <a href="https://bharatthakare.vercel.app">Portfolio</a>
 </div>
