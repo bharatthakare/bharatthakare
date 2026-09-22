@@ -85,31 +85,7 @@ My focus is on **clean UI, strong logic, and real-world problem solving**.
 
 <details>
   <summary>See more</summary>
-
-  ###
-  - Java (DSA)
-  - React Native
-  - Node.js
-  - MongoDB Atlas
-  - shadcn/ui
-  - Framer Motion
-  - Git & GitHub
-  - Figma
-  - Vercel Deployment
 </details>
-
----
-
-## :brain: Projects ##
-
-| Project | Description | Tech |
-|-------|------------|------|
-| **KisanAI Web** | AI-powered agriculture platform with NDVI, crop health & maps | Next.js, APIs, Firebase |
-| **Talent Track** | Campus placement management system | MERN, Firebase |
-| **TaskNest** | To-Do app with Pomodoro, analytics & cloud sync | React Native, Firebase |
-| **KodeBlog** | Blogging platform with auth & markdown | Next.js, Firebase |
-| **KlicknBuy** | Full-stack e-commerce app | MERN, Redux |
-| **SecureCloud** *(In Progress)* | AWS-like cloud platform | React, Node, Supabase |
 
 ---
 
