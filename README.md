@@ -1,6 +1,6 @@
 <div align="center" id="top">
 
-  <img src="./GitHub Banner.jpg" width="900" alt="Bharat Thakare Banner" />
+  <img src="./GITHUB.jpg" width="900" alt="Bharat Thakare Banner" />
 
   <br><br>
 
