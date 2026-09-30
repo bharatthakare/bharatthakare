@@ -38,18 +38,6 @@
 
 </p>
 
-<p align="center">
-
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-current-focus">Current Focus</a> &#xa0; | &#xa0;
-  <a href="#computer-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#brain-projects">Projects</a> &#xa0; | &#xa0;
-  <a href="#trophy-achievements">Achievements</a> &#xa0; | &#xa0;
-  <a href="#mortar_board-education">Education</a> &#xa0; | &#xa0;
-  <a href="#mailbox-contact">Contact</a>
-
-</p>
-
 ---
 
 ## :dart: About ##
