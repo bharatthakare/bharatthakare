@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <a href="https://bharatthakare.vercel.app">
+  <a href="https://bharatthakare.github.io/portfolio">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio"/>
   </a>
 
