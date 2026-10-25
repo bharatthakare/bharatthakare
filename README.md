@@ -4,9 +4,9 @@
 
   <br><br>
 
-  <a href="https://bharatthakare.github.io/portfolio">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio" />
-  </a>
+ <a href="https://bharatthakare.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio" />
+</a>
 
 </div>
 
