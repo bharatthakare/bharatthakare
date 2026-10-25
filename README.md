@@ -62,10 +62,10 @@ I enjoy turning ideas into functional applications, solving programming problems
 
 ```text
 ☕ Java & DSA
-████████████████░░░░  Learning
+████████░░░░░░░░░░░░  Learning
 
 🌐 MERN Stack
 ██████████████████░░  Building
 
 🤖 Artificial Intelligence
-██████████░░░░░░░░░░  Exploring
+███░░░░░░░░░░░░░░░░░  Exploring
